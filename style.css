@@ -2,7 +2,7 @@
 body {
   font-family: "Arial", sans-serif;
   background-color: #f9f9f9;
-  color: #333;
+  color: #d3ff34;
   line-height: 1.6;
   padding: 20px;
 }
@@ -10,7 +10,7 @@ body {
 /* ヘッダータグの装飾 */
 h1 {
   font-size: 2.5em;
-  color: #0066cc;
+  color: #ff46ff;
   border-bottom: 3px solid #ccc;
   padding-bottom: 10px;
 }
