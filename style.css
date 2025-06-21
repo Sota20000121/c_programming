@@ -28,6 +28,10 @@ h3, h6 {
   color: #555;
 }
 
+b {
+  
+  color: #1f1f1f;
+}
 /* strongタグとfontタグの表示 */
 strong {
   font-weight: bold;
